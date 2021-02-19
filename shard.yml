@@ -1,0 +1,13 @@
+name: weatherbar
+version: 0.1.0
+
+authors:
+  - Jenn Wheeler <jawheeler@wm.edu>
+
+targets:
+  weatherbar:
+    main: src/weatherbar.cr
+
+crystal: 0.36.1
+
+license: MIT
