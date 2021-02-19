@@ -8,7 +8,7 @@ TODO: Write installation instructions here
 
 ## Usage
 
-```
+```sh
 $ git clone https://github.com/sourgrasses/weatherbar.git
 $ cd weatherbar
 $ shards build
